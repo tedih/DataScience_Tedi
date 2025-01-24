@@ -66,7 +66,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 
-<!-- Laravel Project Setup and Configuration
+## Laravel Project Setup and Configuration
 Fist things firs you need to have laravel and compser installed in you vs code, and also the apache and mysql running on the XAMPP so the localhost can start to execute. 
 
 I) How to Import the Database
